@@ -1,0 +1,36 @@
+A Allyway
+B Crescent and Dock
+0 Beach, West Side
+1 Beach, East Side
+2 Beach, North Side
+3 Beach, South Side
+C Lighthouse
+D Docks
+E Main and Dock
+6 Main St North
+7 Main St South
+F Bank
+G Bookstore
+H Crescent St
+8 Crescent St Northwest
+9 Crescent St Southwest
+I Dock St
+J Grocery
+K Tide Crush Bluffs
+4 Thornton Heights
+5 Seaside Ridge
+L Monument
+M Chamber of Commerce
+N House
+O Post Office
+P Waterfront Park
+Q Cathederal
+R Cementery
+S Antique Mall
+T Shipwreck
+U School
+V Hotel
+W Comber's Shack
+X Restuarant
+Y Forest
+Z Bed and Breakfast
